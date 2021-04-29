@@ -33,3 +33,9 @@ result, pred = news.predict(submission)
 
 # save result
 submission.to_csv('ab1000.csv')
+
+
+
+if __name__ == "__main__":
+    # execute only if run as a script
+    main()
