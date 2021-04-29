@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 29 20:04:35 2021
 
-@author: user
-"""
 
 from sklearn.ensemble import RandomForestClassifier
 from scipy.sparse import csr_matrix, csc_matrix
