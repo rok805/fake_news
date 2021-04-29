@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 13 13:40:59 2020
-@author: user
-"""
 
 # 모듈
 from sklearn.ensemble import RandomForestClassifier
